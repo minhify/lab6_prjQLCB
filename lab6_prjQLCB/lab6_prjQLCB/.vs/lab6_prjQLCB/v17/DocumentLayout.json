@@ -3,8 +3,30 @@
   "WorkspaceRootPath": "D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5695AE2-322C-4CE7-B8AA-BBEBDD64640A}|lab6_prjQLCB\\lab6_prjQLCB.csproj|d:\\projectdotnet\\lab6_prjqlcb\\lab6_prjqlcb\\lab6_prjqlcb\\frmqlcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E5695AE2-322C-4CE7-B8AA-BBEBDD64640A}|lab6_prjQLCB\\lab6_prjQLCB.csproj|solutionrelative:frmqlcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E5695AE2-322C-4CE7-B8AA-BBEBDD64640A}|lab6_prjQLCB.csproj|D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\frmqlcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5695AE2-322C-4CE7-B8AA-BBEBDD64640A}|lab6_prjQLCB.csproj|solutionrelative:frmqlcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|lab6_prjQLCB||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5695AE2-322C-4CE7-B8AA-BBEBDD64640A}|lab6_prjQLCB.csproj|d:\\projectdotnet\\lab6_prjqlcb\\lab6_prjqlcb\\lab6_prjqlcb\\chucvucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5695AE2-322C-4CE7-B8AA-BBEBDD64640A}|lab6_prjQLCB.csproj|solutionrelative:chucvucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5695AE2-322C-4CE7-B8AA-BBEBDD64640A}|lab6_prjQLCB.csproj|D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\chucvumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5695AE2-322C-4CE7-B8AA-BBEBDD64640A}|lab6_prjQLCB.csproj|solutionrelative:chucvumodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5695AE2-322C-4CE7-B8AA-BBEBDD64640A}|lab6_prjQLCB.csproj|D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\frmqlcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5695AE2-322C-4CE7-B8AA-BBEBDD64640A}|lab6_prjQLCB.csproj|solutionrelative:frmqlcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5695AE2-322C-4CE7-B8AA-BBEBDD64640A}|lab6_prjQLCB.csproj|D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5695AE2-322C-4CE7-B8AA-BBEBDD64640A}|lab6_prjQLCB.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5695AE2-322C-4CE7-B8AA-BBEBDD64640A}|lab6_prjQLCB.csproj|d:\\projectdotnet\\lab6_prjqlcb\\lab6_prjqlcb\\lab6_prjqlcb\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +41,75 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmQLCB.cs",
+              "DocumentMoniker": "D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\frmQLCB.cs",
+              "RelativeDocumentMoniker": "frmQLCB.cs",
+              "ToolTip": "D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\frmQLCB.cs",
+              "RelativeToolTip": "frmQLCB.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwCoAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:04:26.34Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "lab6_prjQLCB",
+              "DocumentMoniker": "D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB.csproj",
+              "RelativeDocumentMoniker": "lab6_prjQLCB.csproj",
+              "ToolTip": "D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB.csproj",
+              "RelativeToolTip": "lab6_prjQLCB.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-10T14:13:00.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChucVuController.cs",
+              "DocumentMoniker": "D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\ChucVuController.cs",
+              "RelativeDocumentMoniker": "ChucVuController.cs",
+              "ToolTip": "D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\ChucVuController.cs",
+              "RelativeToolTip": "ChucVuController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwCMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:07:31.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChucVuModel.cs",
+              "DocumentMoniker": "D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\ChucVuModel.cs",
+              "RelativeDocumentMoniker": "ChucVuModel.cs",
+              "ToolTip": "D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\ChucVuModel.cs",
+              "RelativeToolTip": "ChucVuModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T10:33:05.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:48:18.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "frmQLCB.cs [Design]",
               "DocumentMoniker": "D:\\ProjectDotNet\\lab6_prjQLCB\\lab6_prjQLCB\\lab6_prjQLCB\\frmQLCB.cs",
               "RelativeDocumentMoniker": "frmQLCB.cs",
@@ -27,10 +118,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-07T08:52:29.875Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

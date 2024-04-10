@@ -13,7 +13,7 @@ class Database
     {
         try
         {
-            con = new SqlConnection("Server=MEE\\MYB2014996;database=QLCB;uid=mylogin;pwd=mylogin");
+            con = new SqlConnection("Server=MINHIFY\\MYB2014996;database=QLCB;uid=mylogin;pwd=mylogin");
             con.Open();
         }
         catch (Exception)
