@@ -1,0 +1,10 @@
+D:\ProjectDotNet\lab6_prjQLCB\lab6_prjQLCB\lab6_prjQLCB\bin\Debug\lab6_prjQLCB.exe.config
+D:\ProjectDotNet\lab6_prjQLCB\lab6_prjQLCB\lab6_prjQLCB\bin\Debug\lab6_prjQLCB.exe
+D:\ProjectDotNet\lab6_prjQLCB\lab6_prjQLCB\lab6_prjQLCB\bin\Debug\lab6_prjQLCB.pdb
+D:\ProjectDotNet\lab6_prjQLCB\lab6_prjQLCB\lab6_prjQLCB\obj\Debug\lab6_prjQLCB.csproj.AssemblyReference.cache
+D:\ProjectDotNet\lab6_prjQLCB\lab6_prjQLCB\lab6_prjQLCB\obj\Debug\lab6_prjQLCB.frmQLCB.resources
+D:\ProjectDotNet\lab6_prjQLCB\lab6_prjQLCB\lab6_prjQLCB\obj\Debug\lab6_prjQLCB.Properties.Resources.resources
+D:\ProjectDotNet\lab6_prjQLCB\lab6_prjQLCB\lab6_prjQLCB\obj\Debug\lab6_prjQLCB.csproj.GenerateResource.cache
+D:\ProjectDotNet\lab6_prjQLCB\lab6_prjQLCB\lab6_prjQLCB\obj\Debug\lab6_prjQLCB.csproj.CoreCompileInputs.cache
+D:\ProjectDotNet\lab6_prjQLCB\lab6_prjQLCB\lab6_prjQLCB\obj\Debug\lab6_prjQLCB.exe
+D:\ProjectDotNet\lab6_prjQLCB\lab6_prjQLCB\lab6_prjQLCB\obj\Debug\lab6_prjQLCB.pdb
